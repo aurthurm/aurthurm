@@ -22,7 +22,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurthurm&layout=compact&bg_color=ffffff&text_color=333333" alt="Aurthur most used languages" align="right" />
   
-![Aurthur github stats](https://github-readme-stats.vercel.app/api?username=aurthurm&hide=["issues"]&show_icons=true)
+![Aurthur github stats](https://github-readme-stats.vercel.app/api?username=aurthurm&count_private=true&include_all_commits=true&show_icons=true)
 
 
 
