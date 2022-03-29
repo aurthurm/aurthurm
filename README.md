@@ -21,4 +21,9 @@
 
 ![Aurthur github stats](https://github-readme-stats.vercel.app/api?username=aurthurm&hide=["issues"]&show_icons=true)
 
+
+
+![Aurthur most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurthurm&layout=compact&bg_color=ffffff&text_color=333333)
+
+
 ⭐ From [Aurthur Musendame](https://github.com/aurthurm)
