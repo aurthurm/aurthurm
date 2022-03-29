@@ -17,3 +17,6 @@
 - 🛢 &nbsp; MySQL | Postgres
 - 🔧 &nbsp; InteliJ | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop
+
+
+![Aurthur github stats](https://github-readme-stats.vercel.app/api?username=aurthurm&hide=["issues"]&show_icons=true)
